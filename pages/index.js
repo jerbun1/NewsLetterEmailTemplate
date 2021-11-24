@@ -48,7 +48,7 @@ export default function Home() {
                     <img src="https://i.ibb.co/5jZ9SZQ/test-Photo.png" alt="test-Photo" border="0" width="150px" height="150px"/>                
                   </div>
                   <div className="sign-1">
-                    <h3>Leader Don't Crave Credit</h3>
+                    <h3>Leaders Dont Crave Credit</h3>
                     <p>A good leader doesn't mind receiving credit. But Their desire to get credit is nonexistent.
                       Instead, a leader is more concerned with the work at hand and completing it to the best of their ability.
                     </p>
