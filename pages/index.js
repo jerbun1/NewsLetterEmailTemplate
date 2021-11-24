@@ -30,11 +30,11 @@ export default function Home() {
                 {/* Enter image with dotted line below */}
                 <div className="info">
                   Edgar Samson<br/>
-                  "At Samson and Sons,we value leadershp that produces results, but also retains our talented staff and kepps them motivated to do theur absolute best.
+                  "At Samson and Sons, we value leadershp that produces results, but also retains our talented staff and kepps them motivated to do theur absolute best.
                   The question of what makes a good leader then comes down to how does a leader ensure sustainable productivity? 
-                  We've looked at leader from a number or largely successful companies, alon with very mature startups,
-                  and found that there are 6 key traits all food leaders possess. For this week's newsletter,
-                  we've decided to share them with you."
+                  We have looked at leader from a number or largely successful companies, alon with very mature startups,
+                  and found that there are 6 key traits all food leaders possess. For this weeks newsletter,
+                  we have decided to share them with you."
                 </div>
               </td>
             </tr>
@@ -49,7 +49,7 @@ export default function Home() {
                   </div>
                   <div className="sign-1">
                     <h3>Leaders Dont Crave Credit</h3>
-                    <p>A good leader doesn't mind receiving credit. But Their desire to get credit is nonexistent.
+                    <p>A good leader does not mind receiving credit. But Their desire to get credit is nonexistent.
                       Instead, a leader is more concerned with the work at hand and completing it to the best of their ability.
                     </p>
                   </div>
