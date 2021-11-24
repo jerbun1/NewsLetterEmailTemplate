@@ -30,11 +30,11 @@ export default function Home() {
                 {/* Enter image with dotted line below */}
                 <div className="info">
                   Edgar Samson<br/>
-                  "At Samson and Sons, we value leadershp that produces results, but also retains our talented staff and kepps them motivated to do theur absolute best.
+                  At Samson and Sons, we value leadershp that produces results, but also retains our talented staff and kepps them motivated to do their absolute best.
                   The question of what makes a good leader then comes down to how does a leader ensure sustainable productivity? 
-                  We have looked at leader from a number or largely successful companies, alon with very mature startups,
+                  We have looked at leader from a number or largely successful companies, along with very mature startups,
                   and found that there are 6 key traits all food leaders possess. For this weeks newsletter,
-                  we have decided to share them with you."
+                  we have decided to share them with you.
                 </div>
               </td>
             </tr>
@@ -64,7 +64,7 @@ export default function Home() {
                   <div className="sign-2">
                     <h3>More Coach, Less Player</h3>
                     <p>
-                      The work leaders do is important, but the quality of work fromthe team is more important. 
+                      The leaders work is important, but the quality of work from the team is more important. 
                       Good leaders care considerably more about fostering an environment that brings out the best from the team.
                     </p>
                   </div>
@@ -85,7 +85,7 @@ export default function Home() {
                   <div className="sign-3">
                     <h3>Emotional Intelligence</h3>
                     <p>Good leaders understand how they can make people feel in their presence. 
-                      With that understanding aleaderengages his.her team ina way that fosters a healthy, working relationship.
+                      With that understanding a leader engages his.her team in a way that fosters a healthy, working relationship.
                     </p>
                   </div>
                   
@@ -98,8 +98,8 @@ export default function Home() {
                 {/* Enter image with dotted line below */}
                 <div className='container4'>
                   <div className="sign-4">
-                    <h3>Driven by Curiosity</h3>
-                    <p>Good leaders give people the benefit of the doubt,they do not feel inclined to make negative assumptions about others.
+                    <h3>Driven By Curiosity</h3>
+                    <p>Good leaders give people the benefit of the doubt, they do not feel inclined to make negative assumptions about others.
                       Instead, they like to learn more about the team.
                     </p>
                   </div>
@@ -118,7 +118,7 @@ export default function Home() {
                     <img src="https://i.ibb.co/61fycZS/test-Photo5.jpg" alt="test-Photo5" border="0" width="260px" height="260px"/>                  
                   </div>
                   <div className="sign-5">
-                    <h3>Considers the Long-Term</h3>
+                    <h3>Considers The Long-Term</h3>
                     <p>Good leaders care about being productive today and getting things done before the end of the week.
                       But they also care about the overall timescale,  the impact of their present actions on the furture.
                     </p>
@@ -134,7 +134,7 @@ export default function Home() {
                   <div className="sign-6">
                     <h3>Conviction</h3>
                     <p>Good leaders are strong-willed and resolute. 
-                      When they act ontheir values, even when they are unpopular or not sound business strategy, 
+                      When they act on their values, even when they are unpopular or not sound business strategy, 
                       they demonstrate character and resolve.
                     </p>
                   </div>
